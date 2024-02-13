@@ -1,0 +1,4 @@
+clockify
+.env
+*.log
+```
